@@ -1,0 +1,24 @@
+{
+    "name": "Text fade in animation",
+    "description": "Sample text animation",
+    "properties": {
+        "string":  {
+            "type": "string",
+            "value": "Sample text"
+        },
+        "fontSize":  {
+            "type": "integer",
+            "value": 24
+        },
+        "fontColor":  {
+            "type": "string",
+            "value": "white"
+        }
+    },
+    "functions": [
+        {
+            "name": "main",
+            "description": "Main function"
+        }
+    ]
+}
