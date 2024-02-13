@@ -1,6 +1,6 @@
 {
     "name": "Text fade in animation",
-    "description": "Sample text animation",
+    "description": "Sample text animation editted",
     "properties": {
         "string":  {
             "type": "string",
@@ -12,7 +12,7 @@
         },
         "fontColor":  {
             "type": "string",
-            "value": "white"
+            "value": "red"
         }
     },
     "functions": [
